@@ -2,7 +2,7 @@ name: WingShopCoin
 main: Angga7Togk\Store\WingShop
 version: 1.0.0
 api: 4.0.0
-author: Angga7Togk
+author: YukariAst
 
 commands:
   wingshop:
