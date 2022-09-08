@@ -1,0 +1,10 @@
+Title: "§lWings Shop"
+Content: "edit in wing.yml"
+
+1:
+  Wings:
+    Name: "mercy"
+    Permission: "mercy.wing"
+    Price: 1455
+  Button:
+    Name: "§l§6Mercy §eWings"
