@@ -1,0 +1,15 @@
+name: WingShopCoin
+main: Angga7Togk\Store\WingShop
+version: 1.0.0
+api: 4.0.0
+author: Angga7Togk
+
+commands:
+  wingshop:
+    description: "open wingshop menu"
+    permission: wingshop.command
+    aliases: [ws]
+
+permissions:
+  wingshop.command:
+    default: true
